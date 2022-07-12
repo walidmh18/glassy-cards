@@ -22,7 +22,7 @@ body{
         flex-direction: column; 
     }
     body{
-        height: 150vh;
+        height: 120vh;
     }
 }
 .card {
