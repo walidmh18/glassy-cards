@@ -19,8 +19,10 @@ body{
 }
 @media screen and (max-width: 768px) {
     .container{
-        flex-direction: column;
-        padding: 2rem 0;
+        flex-direction: column; 
+    }
+    body{
+        height: 170vh;
     }
 }
 .card {
